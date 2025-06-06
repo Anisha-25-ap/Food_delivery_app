@@ -64,16 +64,3 @@ food-delivery-website/
 │           ├── london.jpg
 │           ├── san-francisco.jpg
 │           └── download-app.svg
-![Screenshot_6-6-2025_17721_127 0 0 1](https://github.com/user-attachments/assets/df7d17cc-0a31-4d49-9dbb-db6db6e44c8b)
-
-![Screenshot_6-6-2025_17159_127 0 0 1](https://github.com/user-attachments/assets/8b29dadd-0f4e-46e7-80c6-e6c45ad64664)
-
-![Screenshot_6-6-2025_17143_127 0 0 1](https://github.com/user-attachments/assets/ccac87a5-f80f-4b28-bf2f-593760f1504b)
-
-![Screenshot_6-6-2025_17123_127 0 0 1](https://github.com/user-attachments/assets/8411f564-3d75-4e94-8474-2521204ea7f4)
-
-![Screenshot_6-6-2025_17046_127 0 0 1](https://github.com/user-attachments/assets/2d676919-c636-49fb-9228-f1e2a125fd88)
-
-![Screenshot_6-6-2025_17019_127 0 0 1](https://github.com/user-attachments/assets/642af21f-c61e-41c2-8eb4-088b65a79e03)
-
-![Screenshot_6-6-2025_1716_127 0 0 1](https://github.com/user-attachments/assets/3cb976c1-8469-4556-a67f-a0899bcd1848)
