@@ -17,12 +17,19 @@ A responsive and modern **Food Delivery Website** project made using HTML and CS
 
 ## Screenshots
 
-![Home](ss/home.png)
-![Restaurants](ss/restaurants.png)
-![Menu](ss/menu.png)
-![Cart](ss/cart.png)
-![Checkout](ss/checkout.png)
-![Final](ss/final.png)
+![Home](home.png)
+
+![Restaurants](restaurants.png)
+
+![Menu](menu.png)
+
+![Cart](cart.png)
+
+![Checkout](checkout.png)
+
+![Final](final.png)
+
+
 ## 🛠 Technologies Used
 
 - HTML5
